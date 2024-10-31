@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-09-03 17:27-0400\n"
+"PO-Revision-Date: 2020-09-03 17:35-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: quizforms.php:78
+msgid "Choisissez une suite de quiz :"
+msgstr "Choose category :"
+
+#: quizforms.php:79
+msgid "Question :"
+msgstr "Question :"
+
+#: quizforms.php:80
+msgid "Reponse 1 : "
+msgstr "Answer 1 : "
+
+#: quizforms.php:81
+msgid "Reponse 2 : "
+msgstr "Answer 2 : "
+
+#: quizforms.php:82
+msgid "Reponse 3 : "
+msgstr "Answer 3 : "
+
+#: quizforms.php:83
+msgid "Reponse 4 : "
+msgstr "Answer 4 : "
+
+#: quizforms.php:84
+msgid "Reponse 5 : "
+msgstr "Answer 5 : "
+
+#: quizforms.php:85
+msgid "Texte pour la bonne réponse"
+msgstr "Good answer text"
+
+#: quizforms.php:86
+msgid "Texte pour la mauvaise réponse"
+msgstr "Bad answer text"
+
+#: quizforms.php:87 suiteforms.php:32
+msgid "Enregistrer"
+msgstr "Save"
+
+#: quizforms.php:241
+msgid "Nom de la suite : "
+msgstr "Category name : "
+
+#: quizforms.php:242
+msgid "Modifier"
+msgstr "Modify"
+
+#: quizforms.php:243
+msgid "Supprimer"
+msgstr "Delete"
+
+#: quizforms.php:357
+msgid "Répondre"
+msgstr "Answer"
+
+#: quizforms.php:394
+msgid "Bonne réponse !"
+msgstr "Good answer !"
+
+#: quizforms.php:396
+msgid "Mauvaise réponse..."
+msgstr "Wrong answer..."
+
+#: quizforms.php:399
+msgid "Prochaine question"
+msgstr "Next question"
+
+#: quizforms.php:403
+msgid "Retourner à la&#10;liste des quiz"
+msgstr "Return to&#10; quiz list"
+
+#: quizforms.php:406
+msgid "Votre score est de "
+msgstr "Your score is "
+
+#: quizshortcode.php:24
+msgid "Retour à la page d'accueil"
+msgstr "Return to home page"
+
+#: quizshortcode.php:33
+msgid ""
+"Vous ne pouvez pas répondre au quiz lorsque vous êtes connecté en mode "
+"administrateur ou éditeur. Pour le résultat fini, ouvrir sur un autre "
+"navigateur ou en mode incognito. Vous pouvez aussi vous déconnecter."
+msgstr ""
+"You can't answer the quiz if your connected has admin or editor. Use "
+"another browser or a private page. You can also disconnect from your "
+"wordpress account for this site."
+
+#: suiteforms.php:30 suiteforms.php:93 suiteforms.php:179
+msgid "Nom de la suite :"
+msgstr "Category name :"
+
+#: suiteforms.php:31
+msgid "  La suite est visible ?"
+msgstr " Is category visible ?"
+
+#: suiteforms.php:92
+msgid "Créer une nouvelle suite"
+msgstr "Create new category"
+
+#: suiteforms.php:94
+msgid "Lister toutes les suites"
+msgstr "List all category"
+
+#: suiteforms.php:180
+msgid "Effacer cette suite"
+msgstr "Delete category"
+
+#: suiteforms.php:204
+msgid "Entrer une nouvelle question dans cette suite."
+msgstr "Enter a new question for this category."
+
+#: suiteforms.php:212
+msgid "Créer une suite"
+msgstr "Create category"
+
+#: suiteforms.php:281
+msgid "Note&nbsp;:"
+msgstr "Score&nbsp;:"
+
+#: suiteforms.php:297
+msgid "Cet suite de question n'est pas visible à l'utilisateur"
+msgstr "This category is not visible"
+
+#: suiteforms.php:387
+msgid "Vous ne pouvez pas répondre à la même question deux fois."
+msgstr "You can't answer the same question two times."
